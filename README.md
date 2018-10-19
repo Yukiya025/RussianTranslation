@@ -5,9 +5,9 @@
 1. `$ python pirivodchika.py`を実行
 2. ロシア語にしたい日本語をターミナルに入力
 
-![代替テキスト]("./images/koreha.png")
+![Input Japanese](https://github.com/Yukiya025/RussianTranslation/blob/master/images/koreha.png?raw=true)
 3. エンターキーを押すと、FireFoxが起動して翻訳結果を表示
  
-![代替テキスト](画像のURL) 
+![Russian Result](https://github.com/Yukiya025/RussianTranslation/blob/master/images/what2.png?raw=true) 
 
 文字コードが云々というエラーが出たら、日本語をメモ帳に書いて、無駄なスペースがないようにコピーしてターミナルに貼り付けてください。
