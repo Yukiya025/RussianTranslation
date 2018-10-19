@@ -6,6 +6,7 @@
 2. ロシア語にしたい日本語をターミナルに入力
 
 ![Input Japanese](https://github.com/Yukiya025/RussianTranslation/blob/master/images/koreha.png?raw=true)
+
 3. エンターキーを押すと、FireFoxが起動して翻訳結果を表示
  
 ![Russian Result](https://github.com/Yukiya025/RussianTranslation/blob/master/images/what2.png?raw=true) 
