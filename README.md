@@ -1,6 +1,6 @@
 # Special Thanks
-[おすしちゃんねる](https://github.com/osushichannel/popup-dictionary-editor)さん
-
+- [おすしちゃんねる](https://github.com/osushichannel/popup-dictionary-editor)さん
+- [3 分で作る無料の翻訳 API with Google Apps Script](https://qiita.com/tanabee/items/c79c5c28ba0537112922)
 # 使い方
 1. `$ python pirivodchika.py`を実行
 2. ロシア語にしたい日本語をターミナルに入力
